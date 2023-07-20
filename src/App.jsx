@@ -15,7 +15,7 @@ const App = () => {
       <div className="header">
         <h3>Jagadeesh babu</h3>
         <p>Email: jagadeeshgongidi@gmail.com</p>
-        <p> Contact: +91 6281190840</p>
+        <p> Contact: +91 6281770528</p>
       </div>
       <div className="switch-container" onClick={toggleView}>
 
