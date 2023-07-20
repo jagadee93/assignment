@@ -49,8 +49,7 @@ th {
 
 /* Chart styles */
 .chart-container {
-  display: flex;
-  justify-content: center;
+  overflow-x: auto;
 }
 
 /* ... (other CSS styles) */
@@ -76,10 +75,6 @@ th {
 
   .table-container {
     overflow-x: hidden;
-  }
-
-  .chart-container {
-    overflow-x: auto;
   }
 }
 
